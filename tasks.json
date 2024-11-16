@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "done",
+    "createdAt": "2024-11-16T08:49:02.451Z",
+    "updatedAt": "2024-11-16T08:49:26.064Z"
+  },
+  {
+    "id": 2,
+    "description": "Finish homework and project",
+    "status": "done",
+    "createdAt": "2024-11-16T09:13:23.090Z",
+    "updatedAt": "2024-11-16T09:14:02.070Z"
+  },
+  {
+    "id": 3,
+    "description": "Go to market and buy vegetables",
+    "status": "todo",
+    "createdAt": "2024-11-16T14:52:40.335Z",
+    "updatedAt": "2024-11-16T14:53:12.767Z"
+  }
+]
