@@ -21,6 +21,7 @@ A simple command-line tool to track and manage your tasks.
 2. Navigate into the project directory:
    cd task-tracker-cli
 
+Commands for run the project in terminal
 
 3. Add a new task:
    node cli.js add "Buy groceries"
